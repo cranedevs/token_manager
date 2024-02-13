@@ -1,7 +1,7 @@
 # token-manager
 A simple token manager written by discord.js-selfbot-v13
 
-# Proje dosyalarını elimde olmayan sebeplerden ötürü kaybettim. Eğer 20 star gelirse projenin daha gelişmiş ve yeni bir versiyonu gelecek. 
+### Proje dosyalarını buldum. Erken erişim için [benimle](https://discord.com/users/587564522009788426) iletişime geçebilirsiniz.
 
 # [TR]
 ## [UYARI]
