@@ -7,7 +7,7 @@ A simple token manager written by discord.js-selfbot-v13
 ## [UYARI]
 ***• BU PROJE EĞİTİM AMAÇLIDIR! SELFBOTLAR DISCORD'un ToS'una AYKIRIDIR. RİSKİ SİZE AİT OLMAK ÜZERE KULLANIN!***
 
-***• PROJE 20 STARDA PAYLAŞILACAK. HER 5 STARDA YENI OZELLIK EKLENECEK.*** 
+***• 17 STARDA PAYLAŞTIM. HERHANGİ BİR YENİ ÖZELLİK EKLEMEYECEĞİM.*** 
 
 ***• Proje geliştirme aşamasındadır, eklenebilecek yeni özellikler için [bu linke tıklayın](https://discord.com/users/587564522009788426)***
 
