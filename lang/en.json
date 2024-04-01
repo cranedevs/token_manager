@@ -1,0 +1,15 @@
+{
+    "token": "token",
+    "token-control": "token-control",
+    "add": "add",
+    "list": "list",
+    "delete": "delete",
+    "List Of Tokens": "List Of Tokens",
+    "No token found": "No token found",
+    "UPDATED": "UPDATED",
+    "Tokens saved succesfully!": "Tokens saved succesfully!",
+    "Hello, you can do whatever you want to your tokens with this menu.": "Hello, you can do whatever you want to your tokens with this menu.",
+    "Tokens re-initialising and connecting to voice channels": "Tokens re-initialising and connecting to voice channels",
+    "Write what you want to send to other people": "Write what you want to send to other people",
+    "You must specify one or more tokens!": "You must specify one or more tokens!"
+}
